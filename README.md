@@ -114,7 +114,7 @@ A short 2-minute video explaining:
 - Workflow
 - Future implementation
 
-(Video link will be added here)
+Video link
 https://drive.google.com/file/d/1SwgGJYXU8eBES-lilYMRPja7-i1pq0uq/view?usp=drivesdk
 
 ---
